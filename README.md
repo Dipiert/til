@@ -17,7 +17,7 @@
 
 - Leibniz
 
-## Programming
+## Software
 
 ### OO
 
@@ -26,6 +26,10 @@
 ### Python
 
 - Mocks
+
+### Usability
+
+- Complexity
 
 ## World
 
